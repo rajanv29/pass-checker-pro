@@ -1,0 +1,13 @@
+Password Checker
+
+A simple python GUI application that analyzes the password based on the below conditions:
+  -Length
+  -Special characters
+  -Numbers
+  -Uppercase and lowercase
+
+Technologies that are used in this mini project:
+  -Python
+  -Python libraries:
+    -tkinter
+    -re
